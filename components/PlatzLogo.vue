@@ -1,6 +1,6 @@
 <template>
   <img
-    src="@/assets/Logo.svg"
+    src="../assets/Logo.svg"
     :style="{
       width: props.size,
       height: props.size,

@@ -1,6 +1,6 @@
 <template>
   <img
-    src="@/assets/AntStacking.svg"
+    src="../assets/AntStacking.svg"
     :style="{
       width: props.size,
       height: props.size,
